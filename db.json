@@ -1,25 +1,23 @@
 {
 	"getVariant": 
 	[{
-		{
-			"id": 1,
-			"exercises":
-			[{
-				"awd": 213
-			},
-	 		{
-				"wadwad": 21323
-			}]
+		"id": 1,
+		"exercises":
+		[{
+			"awd": 213
 		},
 		{
-			"id": 1,
-			"exercises":
-			[{
-				"awd": 213
-			},
-	 		{
-				"wadwad": 21323
-			}]
-		}
+			"wadwad": 21323
+		}]
+	},
+	{
+		"id": 1,
+		"exercises":
+		[{
+			"awd": 213
+		},
+		{
+			"wadwad": 21323
+		}]
 	}]
 }
