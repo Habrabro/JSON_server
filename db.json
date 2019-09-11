@@ -1,18 +1,25 @@
 {
-	"getSomethingelse":
-	{
-		"awdawd": 123
-	},
-	"getRequests": 
+	"getVariant": 
 	[{
-		"id": 142,
-		"title": "Проверить сетевое напряжение",
-		"actual_time": 1561118400,
-		"status": "open",
-		"location": "Волгоград, Ленина 1",		
-		"getStatus":
 		{
-			"abc": 10
+			"id": 1,
+			"exercises":
+			[{
+				"awd": 213
+			},
+	 		{
+				"wadwad": 21323
+			}]
+		},
+		{
+			"id": 1,
+			"exercises":
+			[{
+				"awd": 213
+			},
+	 		{
+				"wadwad": 21323
+			}]
 		}
 	}]
 }
